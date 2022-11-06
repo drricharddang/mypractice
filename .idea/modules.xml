@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MatchMaking/MatchMaking.iml" filepath="$PROJECT_DIR$/MatchMaking/MatchMaking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyFinance/MyFinance.iml" filepath="$PROJECT_DIR$/MyFinance/MyFinance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PythonModule/PythonModule.iml" filepath="$PROJECT_DIR$/PythonModule/PythonModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Working/Working.iml" filepath="$PROJECT_DIR$/Working/Working.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mypractice.iml" filepath="$PROJECT_DIR$/.idea/mypractice.iml" />
+    </modules>
+  </component>
+</project>
